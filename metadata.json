@@ -1,0 +1,6 @@
+{
+  "name": "Chittagong Door Order Reminder",
+  "description": "An offline order management and reminder app for door shop managers. Features include memo creation, automated reminders, PDF export, and data backup.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
